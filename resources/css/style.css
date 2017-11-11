@@ -6,12 +6,24 @@ html {
   text-align: center;
 }
 
-.broadimg {
-  background-image: url("../images/the-flatiron-building.png");
+body {
+  font-family: helvetica;
+}
 
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.header {
+  background: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .index {
-  list-style-type: none;
-  line-height: 150%;
+  color: white;
+  font-size: 18px;
+  line-height: 100%;
 }
