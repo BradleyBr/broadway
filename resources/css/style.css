@@ -42,7 +42,10 @@ main p {
 }
 
 .index {
-  color: white;
   font-size: 18px;
   line-height: 100%;
+}
+
+.url {
+  color: white;
 }
